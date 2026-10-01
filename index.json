@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "models": [
+    {
+      "id": "blood-axe-mace",
+      "name": "Blood Axe Mace",
+      "format": "java-item",
+      "model": {
+        "path": "models/blood-axe-mace/model.json",
+        "sha256": "e60c4caf7eed59587695c2a759aaebe58ee60c2e6f0188fba7612edb354818fe",
+        "bytes": 184676
+      },
+      "textures": {
+        "modelmirage:item/blood_axe_mace": {
+          "path": "models/blood-axe-mace/textures/mace.png",
+          "sha256": "19dadd1e494dd0f5e5cbb17d0dedc3da5b54687521f8cc533ee7e1bfa4d77098",
+          "bytes": 1652
+        }
+      }
+    }
+  ]
+}
